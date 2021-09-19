@@ -29,8 +29,8 @@ admin_filter=filters.create(is_admin)
 async def start(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/VCPlayerBot')
+            InlineKeyboardButton('💫 Update Channel', url='https://t.me/Tamil_1080p_Movies_HD '),
+            InlineKeyboardButton('❤️ Support Group', url='https://t.me/Tamil_New_Movies_RG')
         ],
         [
             InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help'),
@@ -45,8 +45,8 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/VCPlayerBot'),
+            InlineKeyboardButton('💫 Update Channel', url='https://t.me/Tamil_1080p_Movies_HD'),
+            InlineKeyboardButton('❤️ Support Group', url='https://t.me/Tamil_New_Movies_RG'),
         ]
         ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -60,8 +60,8 @@ async def show_help(client, message):
 async def repo_(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🧩 Repository', url='https://github.com/subinps/VCPlayerBot'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
+            InlineKeyboardButton('💫Update Chrennel', url='https://t.me/Tamil_1080p_Movies_HD'),
+            InlineKeyboardButton('❤️Support Group', url='https://t.me/Tamil_New_Movies_RG'),
             
         ],
     ]
