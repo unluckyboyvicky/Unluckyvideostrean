@@ -23,7 +23,7 @@ from logger import LOGGER
 buttons = [
     [
         InlineKeyboardButton('💫Update Chennel', url='https://t.me/Tamil_1080p_Movies_HD'),
-        InlineKeyboardButton('❤️Support Group', url='https://t.me/Tamil_New_Movies_RG'),
+        InlineKeyboardButton('❤️Support Group', url='https://t.me/Tamil_New_Movies_RG')
     ]
     ]
 def get_cmd(dur):
