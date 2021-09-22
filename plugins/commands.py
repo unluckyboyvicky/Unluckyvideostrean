@@ -46,7 +46,7 @@ async def show_help(client, message):
     buttons = [
         [
             InlineKeyboardButton('💫 Update Channel', url='https://t.me/Tamil_1080p_Movies_HD'),
-            InlineKeyboardButton('❤️ Support Group', url='https://t.me/Tamil_New_Movies_RG'),
+            InlineKeyboardButton('❤️ Support Group', url='https://t.me/Tamil_New_Movies_RG')
         ]
         ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -61,7 +61,7 @@ async def repo_(client, message):
     buttons = [
         [
             InlineKeyboardButton('💫Update Chrennel', url='https://t.me/Tamil_1080p_Movies_HD'),
-            InlineKeyboardButton('❤️Support Group', url='https://t.me/Tamil_New_Movies_RG'),
+            InlineKeyboardButton('❤️Support Group', url='https://t.me/Tamil_New_Movies_RG')
             
         ],
     ]
